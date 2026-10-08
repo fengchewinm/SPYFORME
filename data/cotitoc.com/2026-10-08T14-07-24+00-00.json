@@ -1,11 +1,11 @@
 {
   "store": "cotitoc.com",
   "name": "cotitoc.com",
-  "fetched_at": "2026-10-08T13:26:21+00:00",
+  "fetched_at": "2026-10-08T14:07:24+00:00",
   "source_url": "https://cotitoc.com/collections/all?sort_by=created-descending&key=2026up",
   "status_code": 200,
   "error": null,
-  "html_bytes": 68936,
+  "html_bytes": 68840,
   "product_count": 0,
   "products": []
 }
