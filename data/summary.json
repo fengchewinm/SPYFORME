@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-10-08T13:14:28+00:00",
+  "stores": {
+    "cotitoc.com": {
+      "status": 200,
+      "error": null,
+      "products": 0,
+      "url": "https://cotitoc.com/collections/all?sort_by=created-descending&key=2026up"
+    },
+    "viqzes.com": {
+      "status": 200,
+      "error": null,
+      "products": 0,
+      "url": "https://viqzes.com/collections/all?sort_by=created-descending"
+    },
+    "bestjas.com": {
+      "status": 200,
+      "error": null,
+      "products": 0,
+      "url": "https://bestjas.com/collections/all?sort_by=created-descending&key=bestjas2024"
+    },
+    "storekyloe.co.uk": {
+      "status": 200,
+      "error": null,
+      "products": 0,
+      "url": "https://storekyloe.co.uk/collections/all-products?sort_by=created-descending"
+    }
+  }
+}
