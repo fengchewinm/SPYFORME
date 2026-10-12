@@ -1,11 +1,11 @@
 {
   "store": "viqzes.com",
   "name": "viqzes.com",
-  "fetched_at": "2026-10-12T08:08:06+00:00",
+  "fetched_at": "2026-10-12T14:13:13+00:00",
   "source_url": "https://viqzes.com/collections/all?sort_by=created-descending",
   "status_code": 200,
   "error": null,
-  "html_bytes": 64909,
+  "html_bytes": 67297,
   "product_count": 0,
   "products": []
 }
