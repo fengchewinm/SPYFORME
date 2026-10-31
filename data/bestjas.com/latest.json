@@ -1,11 +1,11 @@
 {
   "store": "bestjas.com",
   "name": "bestjas.com",
-  "fetched_at": "2026-10-31T08:30:04+00:00",
+  "fetched_at": "2026-10-31T14:23:46+00:00",
   "source_url": "https://bestjas.com/collections/all?sort_by=created-descending&key=bestjas2024",
   "status_code": 200,
   "error": null,
-  "html_bytes": 77502,
+  "html_bytes": 78033,
   "product_count": 0,
   "products": []
 }
