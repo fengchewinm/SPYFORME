@@ -1,11 +1,11 @@
 {
   "store": "storekyloe.co.uk",
   "name": "storekyloe.co.uk",
-  "fetched_at": "2026-11-09T23:13:44+00:00",
+  "fetched_at": "2026-11-10T08:56:00+00:00",
   "source_url": "https://storekyloe.co.uk/collections/all-products?sort_by=created-descending",
   "status_code": 200,
   "error": null,
-  "html_bytes": 82985,
+  "html_bytes": 82442,
   "product_count": 0,
   "products": []
 }
