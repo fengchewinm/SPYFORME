@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:21:25+00:00",
+  "generated_at": "2026-11-24T11:46:49+00:00",
   "stores": {
     "cotitoc.com": {
       "status": 200,
@@ -14,7 +14,7 @@
       "url": "https://viqzes.com/collections/all?sort_by=created-descending"
     },
     "bestjas.com": {
-      "status": 500,
+      "status": 200,
       "error": null,
       "products": 0,
       "url": "https://bestjas.com/collections/all?sort_by=created-descending&key=bestjas2024"
